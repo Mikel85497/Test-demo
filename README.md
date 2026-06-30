@@ -5,9 +5,19 @@ Test demo for class purposes
 
 Hi! I'm Mikel Banks
 
- 
+## Skills I'am Learning
 
-## Interests
+- Using Html/clss
+
+- Understanding Gitub/VSC 
+
+### Hobbies
+
+- Chess
+
+- Polo
+
+### Intrests 
 
 - Gardening
 
@@ -15,13 +25,15 @@ Hi! I'm Mikel Banks
 
 - Traveling 
 
+**Fun Fact:** I am bilingual (engilsh/french) 
 
-### Hobbies
+## The Repositories I Found Interesting
 
-- Chess
+### nuclear
+I like this repository because It a fun and innovative way to find free music
 
-- Polo 
- 
- 
+### material-design-icons
+I love google software and their new material update. 
 
-**Favorite Language:** English (Thats the only one I know:)
+### aseprite
+I think that pixel art is really fun and a diffrent style of art
