@@ -14,6 +14,13 @@ Hi! I'm Mikel Banks
 
 - Traveling 
 
+
+### Hobbies
+
+- Chess
+
+- Gardening 
+ 
  
 
 **Favorite Language:** English (Thats the only one I know:)
