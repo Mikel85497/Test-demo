@@ -8,7 +8,7 @@ Hi! I'm Mikel Banks
 
 ## Interests
 
-- Polo
+- Gardening
 
 - Trains Models
 
@@ -19,7 +19,7 @@ Hi! I'm Mikel Banks
 
 - Chess
 
-- Gardening 
+- Polo 
  
  
 
